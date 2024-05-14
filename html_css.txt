@@ -1,0 +1,12 @@
+Open a terminal and navigate to the directory where you want to clone the repository.
+Clone the htmlgui.nvim repository:
+
+git clone https://github.com/manyids2/htmlgui.nvim
+
+cd htmlgui.nvim
+
+export XDG_CONFIG_HOME=~/.config  (add this line to  ~/.zshrc)
+
+make install
+
+(Perform all these operations in .config file)
